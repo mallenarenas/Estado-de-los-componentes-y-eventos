@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Base-de-datos-alumnos/static/css/main.3156f242.css",
-    "main.js": "/Base-de-datos-alumnos/static/js/main.572e6e1b.js",
-    "index.html": "/Base-de-datos-alumnos/index.html",
-    "main.3156f242.css.map": "/Base-de-datos-alumnos/static/css/main.3156f242.css.map",
-    "main.572e6e1b.js.map": "/Base-de-datos-alumnos/static/js/main.572e6e1b.js.map"
+    "main.css": "/Estado-de-los-componentes-y-eventos/static/css/main.3156f242.css",
+    "main.js": "/Estado-de-los-componentes-y-eventos/static/js/main.572e6e1b.js",
+    "index.html": "/Estado-de-los-componentes-y-eventos/index.html",
+    "main.3156f242.css.map": "/Estado-de-los-componentes-y-eventos/static/css/main.3156f242.css.map",
+    "main.572e6e1b.js.map": "/Estado-de-los-componentes-y-eventos/static/js/main.572e6e1b.js.map"
   },
   "entrypoints": [
     "static/css/main.3156f242.css",
